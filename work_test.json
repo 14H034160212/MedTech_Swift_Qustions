@@ -1,0 +1,98 @@
+[
+  {
+	"user_id" : 1,
+    "symptom": "weight loss"
+  },
+  {
+	"user_id" : 2,
+    "symptom": "nausea and vomiting"   
+  },
+  {
+	"user_id" : 3,
+    "symptom": "not eating because of pain"
+  },
+  {
+	"user_id" : 4,
+    "symptom": "nausea and vomiting"  
+  },
+  {
+	"user_id" : 5,
+    "symptom": "weight loss"
+  },
+  {
+	"user_id" : 6,
+    "symptom": "not eating because of pain"   
+  },
+  {
+	"user_id" : 7,
+    "symptom": "burping"
+  },
+  {
+	"user_id" : 8,
+    "symptom": "bloating"  
+  },
+  {
+	"user_id" : 9,
+    "symptom": "pain may be relieved by eating, drinking, or taking antacids"
+  },
+  {
+	"user_id" : 10,
+    "symptom": "not eating because of pain"  
+  },
+  {
+	"user_id" : 11,
+    "symptom": "weight loss"
+  },
+  {
+	"user_id" : 12,
+    "symptom": "bloating"   
+  },
+  {
+	"user_id" : 13,
+    "symptom": "burping"
+  },
+  {
+	"user_id" : 14,
+    "symptom": "not eating because of pain" 
+  },
+  {
+	"user_id" : 15,
+    "symptom": "nausea and vomiting"
+  },
+  {
+	"user_id" : 16,
+    "symptom": "pain may be relieved by eating, drinking, or taking antacids"   
+  },
+  {
+	"user_id" : 17,
+    "symptom": "burping"
+  },
+  {
+	"user_id" : 18,
+    "symptom": "weight loss" 
+  },
+  {
+	"user_id" : 19,
+    "symptom": "nausea and vomiting"
+  },
+  {
+	"user_id" : 20,
+    "symptom": "weight loss"   
+  },
+  {
+	"user_id" : 21,
+    "symptom": "pain may be relieved by eating, drinking, or taking antacids"
+  },
+  {
+	"user_id" : 22,
+    "symptom": "bloating"    
+  },
+  {
+	"user_id" : 23,
+    "symptom": "not eating because of pain"
+  },
+  {
+	"user_id" : 24,
+    "symptom": "pain may be relieved by eating, drinking, or taking antacids" 
+  }
+]
